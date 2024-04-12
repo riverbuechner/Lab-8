@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 created by River on April 12 at 1:50
+<<<<<<< HEAD
 Step 4: line added by Joey on April 12 at 2:05
+=======
+Step 4: line added by River on April 12 at 2:05
+=======
+Step 1: added by River on April 12 at 1:50
+Step 3: added by River on April 12 at 2:02
+>>>>>>> 5f32d6e7fb0bb3083c4c0f6cd70b25b921fd032f
+>>>>>>> 7ffe273a51e2b15f8336c75d97b9b90d0301f4ff
